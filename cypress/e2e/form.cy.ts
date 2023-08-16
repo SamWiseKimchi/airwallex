@@ -1,3 +1,4 @@
+export {};
 describe('Form e2e tests', () => {
   beforeEach(() => {
     cy.visit('http://localhost:3000');
